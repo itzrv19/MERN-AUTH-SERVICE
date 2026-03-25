@@ -192,7 +192,7 @@ Each email is HTML-styled and responsive:
 
 ## 🧑‍💻 Author
 
-**Rup**
+**RV**
 Final-year B.Tech, IIT Patna
 Building secure & production-grade MERN stacks 🚀
 
