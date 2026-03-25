@@ -205,6 +205,6 @@ Building secure & production-grade MERN stacks 🚀
 
 ## 🪪 License
 
-**MIT License © 2025 Rup**
+**MIT License © 2026 **
 
 ```
