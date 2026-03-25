@@ -200,9 +200,6 @@ Building secure & production-grade MERN stacks 🚀
 
 ## 🌐 Live Demo
 
-**Frontend (Client):** [https://advance-mern-auth-client.onrender.com](https://advance-mern-auth-client.onrender.com)
-**Backend (Server):** [https://github.com/nirvair09/Advance_MERN_AUTH_Service](https://github.com/nirvair09/Advance_MERN_AUTH_Service)
-**Frontend Source Code:** [https://github.com/nirvair09/Advance_MERN_AUTH_Client](https://github.com/nirvair09/Advance_MERN_AUTH_Client)
 
 ---
 
